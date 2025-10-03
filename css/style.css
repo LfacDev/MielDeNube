@@ -372,12 +372,12 @@ hr{
 }
 
 .rtexto span{
-    color: #F0FF1A;
+    color: #000;
     font-size: 100px;
 }
 
 .rtexto p{
-    color: #F0FF1A;
+    color: #000;
     font-size: 50px;
 }
 
@@ -682,5 +682,6 @@ hr{
     padding-top: 200px;
     padding-left: 200px;
 }
+
 
 
